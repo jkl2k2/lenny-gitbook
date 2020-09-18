@@ -6,7 +6,8 @@ description: Links to this help database
 
 ### Aliases: `commands`
 
-### **Usage:** `!help`
+### Usage
+- `!help`
 
 ### Cooldown: `3s`
 
