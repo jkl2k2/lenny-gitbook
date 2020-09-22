@@ -6,12 +6,12 @@
 
 * [Command Groups](commands/command-groups/README.md)
   * [🎉 Fun](commands/command-groups/fun/README.md)
-    * [thesaurize](commands/command-groups/fun/thesaurize.md)
     * [uwufy](commands/command-groups/fun/uwufy.md)
     * [lenny](commands/command-groups/fun/lenny.md)
     * [joke](commands/command-groups/fun/joke.md)
     * [choose](commands/command-groups/fun/choose.md)
     * [ask](commands/command-groups/fun/ask.md)
+    * [thesaurize](commands/command-groups/fun/thesaurize.md)
   * [🌐 General](commands/command-groups/general/README.md)
     * [help](commands/command-groups/general/help.md)
     * [ping](commands/command-groups/general/ping.md)
