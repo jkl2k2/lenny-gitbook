@@ -5,7 +5,7 @@
 ## ℹ️ Command Help <a id="commands"></a>
 
 * [Command Groups](commands/command-groups/README.md)
-  * [🎰 Currency](commands/command-groups/currency/README.md)
+  * [💸 Currency](commands/command-groups/currency/README.md)
     * [balance](commands/command-groups/currency/balance.md)
     * [blackjack](commands/command-groups/currency/blackjack.md)
     * [flip](commands/command-groups/currency/flip.md)
