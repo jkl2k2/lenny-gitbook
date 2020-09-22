@@ -5,6 +5,7 @@
 ## ℹ️ Command Help <a id="commands"></a>
 
 * [Command Groups](commands/command-groups/README.md)
+  * [🎰 Currency](commands/command-groups/currency.md)
   * [📋 Administrative](commands/command-groups/admin/README.md)
     * [config](commands/command-groups/admin/config.md)
     * [prefix](commands/command-groups/admin/prefix.md)
