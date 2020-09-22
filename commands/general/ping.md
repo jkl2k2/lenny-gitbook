@@ -4,9 +4,11 @@ description: Displays the bot's ping
 
 # ping
 
-### Aliases: `test`
+## Aliases: `test`
 
-### Usage
+## Usage
+
 1. `!ping`
 
-### Cooldown: `3s`
+## Cooldown: `3s`
+

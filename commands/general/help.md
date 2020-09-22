@@ -4,10 +4,11 @@ description: Links to this help database
 
 # help
 
-### Aliases: `commands`
+## Aliases: `commands`
 
-### Usage
-- `!help`
+## Usage
 
-### Cooldown: `3s`
+* `!help`
+
+## Cooldown: `3s`
 

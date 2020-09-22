@@ -4,11 +4,14 @@ description: Change/view the server's configuration directly
 
 # config
 
-### Usage
+## Usage
+
 1. `!config view`
 2. `!config set option newValue`
 
-### Restrictions
-- Guild-only
-- Permissions
-    - `MANAGE_GUILD`
+## Restrictions
+
+* Guild-only
+* Permissions
+  * `MANAGE_GUILD`
+

@@ -4,10 +4,13 @@ description: Kick a tagged user from the server
 
 # kick
 
-### Usage
+## Usage
+
 1. `!kick @user`
 
-### Restrictions
-- Guild-only
-- Permissions
-    - `KICK_MEMBERS`
+## Restrictions
+
+* Guild-only
+* Permissions
+  * `KICK_MEMBERS`
+

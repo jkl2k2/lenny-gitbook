@@ -4,10 +4,13 @@ description: Change the bot's prefix
 
 # prefix
 
-### Usage
+## Usage
+
 1. `!prefix newPrefix`
 
-### Restrictions
-- Guild-only
-- Permissions
-    - `MANAGE_GUILD`
+## Restrictions
+
+* Guild-only
+* Permissions
+  * `MANAGE_GUILD`
+
