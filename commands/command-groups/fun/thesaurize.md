@@ -1,5 +1,5 @@
 ---
-description: Apply a ridiculous amount of thesaurus use to any sentence
+description: Apply a ridiculous amount of thesaurus use to any text
 ---
 
 # thesaurize
