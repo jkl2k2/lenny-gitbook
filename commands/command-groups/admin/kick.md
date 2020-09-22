@@ -6,7 +6,7 @@ description: Kick a tagged user from the server
 
 ## Usage
 
-1. `!kick @user`
+1. `!kick [@user]`
 
 ## Restrictions
 

@@ -6,7 +6,7 @@ description: Change the bot's prefix
 
 ## Usage
 
-1. `!prefix newPrefix`
+1. `!prefix [newPrefix]`
 
 ## Restrictions
 

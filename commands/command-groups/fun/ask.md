@@ -6,7 +6,7 @@ description: Responds to a question like a magic 8-ball
 
 ## Usage
 
-1. `!ask question`
+1. `!ask [question]`
 
 ## Cooldown: `3s`
 

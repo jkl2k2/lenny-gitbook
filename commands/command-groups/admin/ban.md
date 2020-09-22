@@ -6,7 +6,7 @@ description: Ban a user from the server
 
 ## Usage
 
-1. `!ban @user`
+1. `!ban [@user]`
 
 ## Restrictions
 

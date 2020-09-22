@@ -6,6 +6,7 @@
 
 * [Command Groups](commands/command-groups/README.md)
   * [🎉 Fun](commands/command-groups/fun/README.md)
+    * [thesaurize](commands/command-groups/fun/thesaurize.md)
     * [uwufy](commands/command-groups/fun/uwufy.md)
     * [lenny](commands/command-groups/fun/lenny.md)
     * [joke](commands/command-groups/fun/joke.md)
