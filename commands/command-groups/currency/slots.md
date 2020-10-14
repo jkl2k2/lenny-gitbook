@@ -10,5 +10,5 @@ description: Test your luck at a slot machine!
 
 1. `!spin [bet]`
 
-## Cooldown: `2s`
+## Cooldown: `3s`
 
