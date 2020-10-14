@@ -11,6 +11,7 @@
     * [flip](commands/command-groups/currency/flip.md)
     * [leaderboard](commands/command-groups/currency/leaderboard.md)
     * [transfer](commands/command-groups/currency/transfer.md)
+    * [slots](commands/command-groups/currency/slots.md)
   * [📋 Administrative](commands/command-groups/admin/README.md)
     * [config](commands/command-groups/admin/config.md)
     * [prefix](commands/command-groups/admin/prefix.md)
