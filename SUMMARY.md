@@ -29,7 +29,7 @@
     * [ping](commands/command-groups/general/ping.md)
   * [🎧 Music](commands/command-groups/music/README.md)
     * [Playback Control](commands/command-groups/music/playback-control/README.md)
-      * [Untitled](commands/command-groups/music/playback-control/untitled.md)
+      * [Test](commands/command-groups/music/playback-control/untitled.md)
     * [bitrate](commands/command-groups/music/bitrate.md)
     * [clear](commands/command-groups/music/clear.md)
     * [findsearch](commands/command-groups/music/findsearch.md)
