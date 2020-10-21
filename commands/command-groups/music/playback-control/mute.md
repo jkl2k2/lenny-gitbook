@@ -4,13 +4,13 @@ description: Toggles muting of current playback
 
 # mute
 
-## Usage
+### Usage
 
 1. `!mute`
 
-## Cooldown: `3s`
+### Cooldown: `3s`
 
-## Restrictions
+### Restrictions
 
 * Guild-only
 

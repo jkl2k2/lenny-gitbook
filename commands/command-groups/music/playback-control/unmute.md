@@ -4,13 +4,13 @@ description: Unmutes audio playback
 
 # unmute
 
-## Usage
+### Usage
 
 1. `!unmute`
 
-## Cooldown: `3s`
+### Cooldown: `3s`
 
-## Restrictions
+### Restrictions
 
 * Guild-only
 
