@@ -27,4 +27,10 @@
   * [🌐 General](commands/command-groups/general/README.md)
     * [help](commands/command-groups/general/help.md)
     * [ping](commands/command-groups/general/ping.md)
+  * [🎧 Music](commands/command-groups/music/README.md)
+    * [bitrate](commands/command-groups/music/bitrate.md)
+    * [clear](commands/command-groups/music/clear.md)
+    * [findsearch](commands/command-groups/music/findsearch.md)
+    * [findvideo](commands/command-groups/music/findvideo.md)
+    * [play](commands/command-groups/music/play.md)
 
