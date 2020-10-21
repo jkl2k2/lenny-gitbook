@@ -28,7 +28,7 @@
     * [help](commands/command-groups/general/help.md)
     * [ping](commands/command-groups/general/ping.md)
   * [🎧 Music](commands/command-groups/music/README.md)
-    * [Playback Control](commands/command-groups/music/playback-control/README.md)
+    * [⏯️ Playback Control](commands/command-groups/music/playback-control/README.md)
       * [pause](commands/command-groups/music/playback-control/pause.md)
       * [resume](commands/command-groups/music/playback-control/resume.md)
       * [mute](commands/command-groups/music/playback-control/mute.md)
