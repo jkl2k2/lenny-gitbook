@@ -8,7 +8,8 @@ description: Plays videos from YouTube or SoundCloud
 
 ## Usage
 
-1. `!bitrate [rate in kbps]`
+1. `!play [search term(s)]`
+2. `!play [video or playlist URL]`
 
 ## Cooldown: `3s`
 
