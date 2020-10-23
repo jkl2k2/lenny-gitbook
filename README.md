@@ -6,8 +6,6 @@ description: >-
 
 # Lenny
 
-
-
 ## Welcome to the help site!
 
 {% hint style="info" %}
